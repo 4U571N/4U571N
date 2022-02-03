@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 4U571N even thoug I wish I was 4U5T1N but the name was taken.
+- 👋 Hi, I’m 4U571N even though I wish I was 4U5T1N but the name was taken.
 - 👀 I’m interested in learning more Code As At The Moment Im Terrible; The Code I Am Specifically Looking At Learing Is More C# Then Going Back To My Roots And Learn HTML & CSS With The Addition In Future Learing Java Script (To Go With HTML & CSS(For Web Development Even Though I have No Plans For Making A Website)), Java (As its Similar TO C#), Python (Its Simple(Compared To Some Others In This List) Started Learning It A While Ago And Then Stopped) & C++ (I Dont Have A Reason For Learning This It Just Has A C in it But Its Not Siliar To C# I Think I'm Not An Expert.)
 - 🌱 I’m currently learning More C#.
 - 💞️ I’m looking to collaborate on... Not Sure But We'll See
